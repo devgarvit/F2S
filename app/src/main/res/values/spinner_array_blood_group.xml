@@ -1,0 +1,8 @@
+<resources>
+    <array name="blood_groups">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </array>
+</resources>
